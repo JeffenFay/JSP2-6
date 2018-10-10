@@ -1,0 +1,25 @@
+h1{
+  padding-left: 1rem;
+  margin-top: 2rem;
+  background-color: white;
+  height: 3.3rem;
+}
+div{
+  display: inline-block;
+  font-style: italic;
+  margin:0.5rem;
+}
+span{
+  margin-left: 1rem;
+  font-size: 1.15rem;
+  color: white;
+  background-color: black;
+}
+body{
+  background-image: linear-gradient(to left, #f7c642, #f26d7f);
+}
+img{
+  height: 10rem;
+  width: auto;
+  margin-left: 30rem;
+}
